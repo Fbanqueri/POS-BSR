@@ -38,7 +38,7 @@ Soy el único desarrollador del proyecto: relevamiento, diseño, implementación
 - Facturas A, B y C con CAE, comprobantes X y presupuestos, notas de crédito (con reingreso de stock) y notas de débito.
 - Pago combinado: efectivo, débito, crédito y transferencia en una misma venta.
 - Operación por teclado o pantalla táctil, con búsqueda por código de barras, SKU o descripción.
-- Impresión silenciosa en ticketeras ESC/POS (80 y 58 mm) y generación de PDF A4.
+- Impresión silenciosa en ticketeras y generación de PDF A4.
 
 **Facturación fiscal**
 - Integración con WSAA y WSFEv1, y consulta de padrón por CUIT/DNI con caché de 48 horas.
