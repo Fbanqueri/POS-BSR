@@ -1,0 +1,11 @@
+# Subproyectos con sus propios repositorios
+back-fc/
+front-fc/
+
+# Editor / IDE
+.vscode/
+
+# Archivos de planificación interna
+implementation_ARCA.md
+implementation_plan_PDF.md
+docs/*.md
